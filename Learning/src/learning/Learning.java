@@ -9,6 +9,10 @@ package learning;
  *
  * @author narek.yegoryan
  */
+
+//Importing Library
+import java.util.*;
+
 public class Learning {
 
     /**
@@ -16,6 +20,11 @@ public class Learning {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("This is a demo Sample");
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        System.out.println("This is a demo Sample");
+
     }
     
 }
